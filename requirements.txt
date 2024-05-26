@@ -1,0 +1,9 @@
+
+flask
+onnx
+onnxruntime
+onnxoptimizer
+onnx-tf
+numpy
+torch
+tensorflow
